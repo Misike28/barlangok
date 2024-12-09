@@ -1,0 +1,16 @@
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\bin\Debug\net8.0-windows\BarlangokGUI.exe
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\bin\Debug\net8.0-windows\BarlangokGUI.deps.json
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\bin\Debug\net8.0-windows\BarlangokGUI.runtimeconfig.json
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\bin\Debug\net8.0-windows\BarlangokGUI.dll
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\bin\Debug\net8.0-windows\BarlangokGUI.pdb
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.Form1.resources
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.csproj.GenerateResource.cache
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.AssemblyInfoInputs.cache
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.AssemblyInfo.cs
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.dll
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\refint\BarlangokGUI.dll
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.pdb
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\BarlangokGUI.genruntimeconfig.cache
+C:\Users\kovacs.mihaly\source\repos\BarlangokGUI\obj\Debug\net8.0-windows\ref\BarlangokGUI.dll
